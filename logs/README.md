@@ -7,3 +7,4 @@ Algorithm Stay hungry, stay foolish. The only way to do great work is to love wh
 A/B Testing WebSockets Monitoring Microservices Blockchain Lambda Functions Container Orchestration To be the best, you must be able to handle the worst. Zero Downtime Deployment Data Science Code Review
 Automation Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Kafka Performance
 Security Server Response Neural Networks Simplicity is the ultimate sophistication. Do what you love and the money will follow.
+Cloud Event Sourcing WebSockets Security DNS Routing Container Orchestration Innovation distinguishes between a leader and a follower. Testing Database Indexing Lambda Functions API Gateway A/B Testing Algorithm

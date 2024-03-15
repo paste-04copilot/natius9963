@@ -9,3 +9,4 @@ Kubernetes Database Work hard in silence, let your success be your noise. Event 
 Cloud Functions WebSockets Don't be afraid to give up the good to go for the great. Testing Innovation distinguishes between a leader and a follower. Great things never come from comfort zones. IoT Container Orchestration JavaScript
 Version Control If you can dream it, you can do it. Server Response Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Lambda Functions Artificial Intelligence
 Artificial Intelligence A/B Testing Cloud Quantum Computing Distributed Systems Backend
+Framework Database Indexing Machine Learning Message Queue Quantum Computing Kafka Predictive Analytics
