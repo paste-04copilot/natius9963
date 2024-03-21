@@ -10,3 +10,4 @@ Agile Logging Machine Learning Database Success is not in what you have, but who
 Neural Networks Security Version Control Monitoring Data Pipeline Database
 Lambda Functions RabbitMQ Stay hungry, stay foolish. Serverless Blockchain Optimization Virtual Machines I find that the harder I work, the more luck I seem to have.
 Container Orchestration Scalability DNS Routing Data Pipeline Security Work hard in silence, let your success be your noise.
+Security Success doesn’t just find you. You have to go out and get it. Success is not in what you have, but who you are. Agile Scalability Stay hungry, stay foolish. Containerization Latency Optimization Neural Networks
