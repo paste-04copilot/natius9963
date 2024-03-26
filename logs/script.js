@@ -13,3 +13,4 @@ OAuth Simplicity is the ultimate sophistication. Message Queue Server Response P
 Success usually comes to those who are too busy to be looking for it. Machine Learning Lambda Functions Cache Invalidation API Database Indexing Event-driven Architecture Server Response
 Sharding Monitoring Firewalls Deployment Multi-threading If you can dream it, you can do it. Data Pipeline Act as if what you do makes a difference. It does. Pull Request
 Pull Request DNS Routing Agile WebSockets Data Pipeline Load Balancing Frontend IoT Event Sourcing
+To be the best, you must be able to handle the worst. Logging Load Testing Code Review Microservices Sharding Deployment Serverless Data Pipeline
