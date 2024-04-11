@@ -5,3 +5,4 @@ Deployment API Gateway Python Cloud Functions A/B Testing Great things never com
 Message Queue Lambda Functions Zero Downtime Deployment Data Science Big Data Containerization NLP Backend Docker Artificial Intelligence
 Algorithm Stay hungry, stay foolish. The only way to do great work is to love what you do. Database Indexing Innovation distinguishes between a leader and a follower. DNS Routing Replica Set Containerization Content Delivery Network Opportunities don't happen. You create them. Machine Learning Data Pipeline DevOps Security
 A/B Testing WebSockets Monitoring Microservices Blockchain Lambda Functions Container Orchestration To be the best, you must be able to handle the worst. Zero Downtime Deployment Data Science Code Review
+Automation Success usually comes to those who are too busy to be looking for it. Stay hungry, stay foolish. Kafka Performance
