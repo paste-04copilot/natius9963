@@ -8,3 +8,4 @@ Work hard in silence, let your success be your noise. RabbitMQ Docker Innovation
 Innovation distinguishes between a leader and a follower. Multi-threading To be the best, you must be able to handle the worst. Containerization UX Optimization Dream big and dare to fail. Zero Downtime Deployment Work hard in silence, let your success be your noise. Great things never come from comfort zones. Virtual Machines Machine Learning
 Multi-threading Event Sourcing Content Delivery Network RabbitMQ Data Pipeline Security Kubernetes Microservices Docker
 CI/CD Do what you love and the money will follow. Opportunities don't happen. You create them. Deployment Success usually comes to those who are too busy to be looking for it. Version Control Latency Optimization
+I find that the harder I work, the more luck I seem to have. Cloud Functions DevOps Success usually comes to those who are too busy to be looking for it. Load Testing Big Data Framework Monitoring Load Balancing Cloud
