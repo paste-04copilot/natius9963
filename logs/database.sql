@@ -4,3 +4,4 @@ Parallel Processing Microservices Logging Content Delivery Network Don't be afra
 Artificial Intelligence A/B Testing NLP The only way to do great work is to love what you do. OAuth JavaScript Latency Optimization
 Lambda Functions Replica Set UX Optimization CI/CD NLP Logging Happiness is not something ready made. It comes from your own actions. Success is not in what you have, but who you are. Do what you love and the money will follow. Code Review
 Event Sourcing Testing API Gateway JWT Success is not in what you have, but who you are. UX Optimization Scalability Zero Downtime Deployment Edge Computing Code Review Success usually comes to those who are too busy to be looking for it. Data Science NLP CI/CD Content Delivery Network
+Database Multi-threading Performance Logging JavaScript NLP Containerization Backend API Gateway Version Control Latency Optimization Security Kafka Code Review API
