@@ -4,3 +4,4 @@ Don't be afraid to give up the good to go for the great. Zero Downtime Deploymen
 Database Event-driven Architecture Serverless Cache Invalidation React Pull Request Act as if what you do makes a difference. It does. Security
 Serverless CI/CD Success doesn’t just find you. You have to go out and get it. Python Distributed Systems IoT RabbitMQ A/B Testing JavaScript Data Pipeline Lambda Functions
 Act as if what you do makes a difference. It does. Simplicity is the ultimate sophistication. I find that the harder I work, the more luck I seem to have. DevOps GraphQL Edge Computing Framework
+Serverless Firewalls Database Indexing Event Sourcing Latency Optimization Multi-threading Predictive Analytics
