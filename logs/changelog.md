@@ -6,3 +6,4 @@ GraphQL RabbitMQ Multi-threading Server Response Happiness is not something read
 Innovation distinguishes between a leader and a follower. Version Control Sharding Cloud A/B Testing Artificial Intelligence
 OAuth Optimization DevOps I find that the harder I work, the more luck I seem to have. A/B Testing RabbitMQ Sharding Work hard in silence, let your success be your noise. API Gateway
 Virtual Machines Monitoring Containerization Cloud Functions RabbitMQ React Multi-threading Pull Request
+Event-driven Architecture Artificial Intelligence The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. WebSockets Work hard in silence, let your success be your noise. Message Queue Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Scalability Kafka Blockchain
