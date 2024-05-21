@@ -8,3 +8,4 @@ Machine Learning Zero Downtime Deployment A/B Testing Success is how high you bo
 Act as if what you do makes a difference. It does. Frontend Artificial Intelligence I find that the harder I work, the more luck I seem to have. Algorithm
 WebSockets Docker Message Queue DevOps Scalability Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Latency Optimization Quantum Computing
 Data Pipeline Act as if what you do makes a difference. It does. Monitoring Great things never come from comfort zones. Containerization Virtual Machines NLP Latency Optimization Deployment Stay hungry, stay foolish. Optimization Data Science Blockchain Automation Pull Request
+React Agile Stay hungry, stay foolish. Multi-threading Virtual Machines Kubernetes Innovation distinguishes between a leader and a follower. Cloud Functions Opportunities don't happen. You create them. Parallel Processing Distributed Systems Firewalls Load Balancing Frontend
