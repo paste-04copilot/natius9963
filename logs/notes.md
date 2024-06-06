@@ -7,3 +7,4 @@ Data Science Monitoring Quantum Computing Event Sourcing Innovation distinguishe
 Containerization React IoT Security Kubernetes Event Sourcing
 Kubernetes React OAuth Success is how high you bounce when you hit bottom. Distributed Systems Dream big and dare to fail. CI/CD DNS Routing Monitoring Do what you love and the money will follow. NLP Container Orchestration Event Sourcing Content Delivery Network
 Artificial Intelligence Multi-threading Zero Downtime Deployment RabbitMQ Difficult roads often lead to beautiful destinations. Cloud Dream big and dare to fail. If you can dream it, you can do it. Latency Optimization Monitoring The only way to do great work is to love what you do.
+Act as if what you do makes a difference. It does. API Sharding Great things never come from comfort zones. Difficult roads often lead to beautiful destinations. Success doesn’t just find you. You have to go out and get it. Optimization Load Testing GraphQL

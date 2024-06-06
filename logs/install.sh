@@ -8,3 +8,4 @@ Cloud Do what you love and the money will follow. DevOps Containerization OAuth 
 DNS Routing Message Queue Success usually comes to those who are too busy to be looking for it. Containerization Predictive Analytics Python Success is not in what you have, but who you are. Multi-threading Sharding
 Agile Logging Machine Learning Database Success is not in what you have, but who you are. To be the best, you must be able to handle the worst. CI/CD Frontend Docker API Gateway Python OAuth Great things never come from comfort zones.
 Neural Networks Security Version Control Monitoring Data Pipeline Database
+Lambda Functions RabbitMQ Stay hungry, stay foolish. Serverless Blockchain Optimization Virtual Machines I find that the harder I work, the more luck I seem to have.
