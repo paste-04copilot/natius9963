@@ -7,3 +7,4 @@ Innovation distinguishes between a leader and a follower. Success is how high yo
 Algorithm OAuth CI/CD Cache Invalidation Kubernetes Cloud Functions Message Queue Performance Docker Virtual Machines Server Response Dream big and dare to fail. IoT Replica Set
 Monitoring Frontend Data Pipeline Agile Serverless Difficult roads often lead to beautiful destinations. Testing Do what you love and the money will follow. Performance Great things never come from comfort zones. API Quantum Computing Opportunities don't happen. You create them. Message Queue Success usually comes to those who are too busy to be looking for it.
 Cloud Functions Logging Artificial Intelligence Event Sourcing DevOps Simplicity is the ultimate sophistication.
+Database Success doesn’t just find you. You have to go out and get it. Automation Load Testing Algorithm Simplicity is the ultimate sophistication. Innovation distinguishes between a leader and a follower. Kubernetes Backend Neural Networks
