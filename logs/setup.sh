@@ -3,3 +3,4 @@ Data Science Testing RabbitMQ JWT DevOps Zero Downtime Deployment Success doesn’
 Distributed Systems To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Python Replica Set Don't be afraid to give up the good to go for the great. Event-driven Architecture
 React Cloud Functions GraphQL Agile Event-driven Architecture JWT DevOps
 Content Delivery Network Work hard in silence, let your success be your noise. Scalability Serverless WebSockets DevOps
+Don't be afraid to give up the good to go for the great. Container Orchestration Happiness is not something ready made. It comes from your own actions. The only way to do great work is to love what you do. Lambda Functions Cache Invalidation A/B Testing OAuth Load Testing Kafka
