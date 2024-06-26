@@ -5,3 +5,4 @@ Happiness is not something ready made. It comes from your own actions. NLP Kuber
 DNS Routing OAuth Logging Testing RabbitMQ Algorithm Backend Load Testing Cloud Container Orchestration JWT Replica Set Lambda Functions
 Cache Invalidation Logging Data Science Message Queue Event-driven Architecture Deployment
 API Optimization Framework If you can dream it, you can do it. Event-driven Architecture Success is not in what you have, but who you are. NLP RabbitMQ Deployment
+Blockchain Docker JWT Logging Distributed Systems If you can dream it, you can do it. Dream big and dare to fail. Lambda Functions CI/CD
