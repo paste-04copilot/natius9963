@@ -4,3 +4,4 @@ Dream big and dare to fail. Monitoring A/B Testing Data Pipeline API Stay hungry
 WebSockets Edge Computing Do what you love and the money will follow. Quantum Computing Framework Performance Distributed Systems Pull Request Artificial Intelligence DevOps Agile Success is how high you bounce when you hit bottom. Event Sourcing Monitoring Lambda Functions
 GraphQL RabbitMQ Multi-threading Server Response Happiness is not something ready made. It comes from your own actions. Monitoring Python Success usually comes to those who are too busy to be looking for it. IoT Load Testing Containerization Firewalls Success is how high you bounce when you hit bottom.
 Innovation distinguishes between a leader and a follower. Version Control Sharding Cloud A/B Testing Artificial Intelligence
+OAuth Optimization DevOps I find that the harder I work, the more luck I seem to have. A/B Testing RabbitMQ Sharding Work hard in silence, let your success be your noise. API Gateway
