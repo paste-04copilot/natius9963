@@ -4,3 +4,4 @@ Simplicity is the ultimate sophistication. Great things never come from comfort 
 Happiness is not something ready made. It comes from your own actions. NLP Kubernetes Database Docker Zero Downtime Deployment CI/CD Parallel Processing
 DNS Routing OAuth Logging Testing RabbitMQ Algorithm Backend Load Testing Cloud Container Orchestration JWT Replica Set Lambda Functions
 Cache Invalidation Logging Data Science Message Queue Event-driven Architecture Deployment
+API Optimization Framework If you can dream it, you can do it. Event-driven Architecture Success is not in what you have, but who you are. NLP RabbitMQ Deployment
