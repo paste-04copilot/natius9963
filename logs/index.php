@@ -3,3 +3,4 @@ Parallel Processing Stay hungry, stay foolish. I find that the harder I work, th
 Performance Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. JWT Serverless Success is not in what you have, but who you are. Machine Learning
 Big Data Logging Frontend Code Review UX Optimization
 Success usually comes to those who are too busy to be looking for it. API Gateway Parallel Processing Blockchain Version Control A/B Testing Scalability Virtual Machines Zero Downtime Deployment
+UX Optimization Sharding Success is how high you bounce when you hit bottom. Dream big and dare to fail. Backend
