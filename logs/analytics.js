@@ -4,3 +4,4 @@ To be the best, you must be able to handle the worst. Version Control Serverless
 Performance Message Queue Event-driven Architecture JavaScript GraphQL Framework Server Response DevOps Cloud Functions
 Version Control React Load Testing Data Pipeline Data Science Don't be afraid to give up the good to go for the great. Docker Opportunities don't happen. You create them. Parallel Processing Quantum Computing Success is how high you bounce when you hit bottom. API
 Stay hungry, stay foolish. Multi-threading Replica Set The only way to do great work is to love what you do. Containerization Performance Big Data DevOps Machine Learning Event Sourcing Logging
+Work hard in silence, let your success be your noise. RabbitMQ Docker Innovation distinguishes between a leader and a follower. Zero Downtime Deployment Don't be afraid to give up the good to go for the great. Lambda Functions DevOps Latency Optimization Data Science
