@@ -11,3 +11,4 @@ If you can dream it, you can do it. Virtual Machines Multi-threading Data Scienc
 Microservices Stay hungry, stay foolish. Server Response Latency Optimization UX Optimization Artificial Intelligence If you can dream it, you can do it. DNS Routing Quantum Computing
 OAuth Simplicity is the ultimate sophistication. Message Queue Server Response Parallel Processing Containerization
 Success usually comes to those who are too busy to be looking for it. Machine Learning Lambda Functions Cache Invalidation API Database Indexing Event-driven Architecture Server Response
+Sharding Monitoring Firewalls Deployment Multi-threading If you can dream it, you can do it. Data Pipeline Act as if what you do makes a difference. It does. Pull Request
