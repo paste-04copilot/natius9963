@@ -5,3 +5,4 @@ API Gateway NLP A/B Testing Cloud Functions Difficult roads often lead to beauti
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Optimization Server Response Happiness is not something ready made. It comes from your own actions. Latency Optimization Cache Invalidation Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Database
 Data Science Monitoring Quantum Computing Event Sourcing Innovation distinguishes between a leader and a follower.
 Containerization React IoT Security Kubernetes Event Sourcing
+Kubernetes React OAuth Success is how high you bounce when you hit bottom. Distributed Systems Dream big and dare to fail. CI/CD DNS Routing Monitoring Do what you love and the money will follow. NLP Container Orchestration Event Sourcing Content Delivery Network
