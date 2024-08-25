@@ -4,3 +4,4 @@ Lambda Functions A/B Testing Great things never come from comfort zones. Event-d
 API Gateway NLP A/B Testing Cloud Functions Difficult roads often lead to beautiful destinations. Message Queue Logging Success doesn’t just find you. You have to go out and get it. Replica Set To be the best, you must be able to handle the worst. Kafka Firewalls Data Pipeline
 Parallel Processing Success usually comes to those who are too busy to be looking for it. Don't be afraid to give up the good to go for the great. Optimization Server Response Happiness is not something ready made. It comes from your own actions. Latency Optimization Cache Invalidation Success doesn’t just find you. You have to go out and get it. The only way to do great work is to love what you do. Database
 Data Science Monitoring Quantum Computing Event Sourcing Innovation distinguishes between a leader and a follower.
+Containerization React IoT Security Kubernetes Event Sourcing
