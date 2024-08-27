@@ -4,3 +4,4 @@ Security Firewalls Algorithm Containerization Quantum Computing Simplicity is th
 Neural Networks Security Do what you love and the money will follow. Version Control CI/CD WebSockets Optimization JavaScript Cloud Functions Load Testing
 Docker GraphQL Cloud Functions Database Indexing WebSockets Cache Invalidation
 Happiness is not something ready made. It comes from your own actions. Container Orchestration Do what you love and the money will follow. Code Review Monitoring Pull Request Machine Learning
+Cloud Do what you love and the money will follow. DevOps Containerization OAuth If you can dream it, you can do it. Message Queue Load Testing Automation Kubernetes
