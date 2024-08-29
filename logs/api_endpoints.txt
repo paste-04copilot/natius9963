@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. JavaScript Security Kubern
 Testing Automation Security Latency Optimization Artificial Intelligence
 Cloud Functions Server Response The only way to do great work is to love what you do. Kubernetes RabbitMQ Success is not in what you have, but who you are. Latency Optimization Kafka Security
 I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Algorithm Happiness is not something ready made. It comes from your own actions. Python OAuth DevOps Success is how high you bounce when you hit bottom. DNS Routing Frontend Do what you love and the money will follow. Database Indexing Cloud Functions
+Optimization I find that the harder I work, the more luck I seem to have. GraphQL Database Indexing Data Science Agile Scalability Message Queue
