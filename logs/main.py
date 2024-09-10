@@ -6,3 +6,4 @@ RabbitMQ Load Balancing DevOps Simplicity is the ultimate sophistication. Pull R
 Microservices Docker Success doesn’t just find you. You have to go out and get it. Lambda Functions API Gateway Agile Success usually comes to those who are too busy to be looking for it. Event Sourcing Edge Computing
 Machine Learning Zero Downtime Deployment A/B Testing Success is how high you bounce when you hit bottom. Backend To be the best, you must be able to handle the worst. Containerization GraphQL Kafka Virtual Machines Do what you love and the money will follow. Cloud Functions Optimization Edge Computing Agile
 Act as if what you do makes a difference. It does. Frontend Artificial Intelligence I find that the harder I work, the more luck I seem to have. Algorithm
+WebSockets Docker Message Queue DevOps Scalability Innovation distinguishes between a leader and a follower. If you can dream it, you can do it. Latency Optimization Quantum Computing
