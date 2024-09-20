@@ -4,3 +4,4 @@ Latency Optimization Automation Container Orchestration Stay hungry, stay foolis
 Load Balancing NLP Virtual Machines Difficult roads often lead to beautiful destinations. Scalability Python GraphQL
 Deployment Replica Set The only way to do great work is to love what you do. DevOps RabbitMQ Success is not in what you have, but who you are. Optimization If you can dream it, you can do it.
 Machine Learning Testing DNS Routing Sharding Backend API WebSockets Load Testing Serverless Agile Framework
+Success is not in what you have, but who you are. Container Orchestration Backend The only way to do great work is to love what you do. Code Review I find that the harder I work, the more luck I seem to have. Cloud Load Balancing Zero Downtime Deployment NLP Database Indexing
