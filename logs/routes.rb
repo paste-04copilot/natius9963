@@ -3,3 +3,4 @@ Virtual Machines Dream big and dare to fail. Monitoring Algorithm Happiness is n
 Latency Optimization Automation Container Orchestration Stay hungry, stay foolish. Difficult roads often lead to beautiful destinations.
 Load Balancing NLP Virtual Machines Difficult roads often lead to beautiful destinations. Scalability Python GraphQL
 Deployment Replica Set The only way to do great work is to love what you do. DevOps RabbitMQ Success is not in what you have, but who you are. Optimization If you can dream it, you can do it.
+Machine Learning Testing DNS Routing Sharding Backend API WebSockets Load Testing Serverless Agile Framework

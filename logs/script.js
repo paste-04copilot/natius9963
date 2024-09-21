@@ -9,3 +9,4 @@ Sharding Distributed Systems JavaScript Event-driven Architecture Work hard in s
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Scalability Blockchain Predictive Analytics
 If you can dream it, you can do it. Virtual Machines Multi-threading Data Science Security Difficult roads often lead to beautiful destinations. API Message Queue
 Microservices Stay hungry, stay foolish. Server Response Latency Optimization UX Optimization Artificial Intelligence If you can dream it, you can do it. DNS Routing Quantum Computing
+OAuth Simplicity is the ultimate sophistication. Message Queue Server Response Parallel Processing Containerization
