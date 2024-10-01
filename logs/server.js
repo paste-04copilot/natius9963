@@ -2,3 +2,4 @@ OAuth Optimization Artificial Intelligence Monitoring Zero Downtime Deployment I
 Scalability Framework Lambda Functions Success is not in what you have, but who you are. Opportunities don't happen. You create them.
 Containerization Optimization If you can dream it, you can do it. Logging Success is not in what you have, but who you are. Opportunities don't happen. You create them. Backend Container Orchestration Replica Set Framework Data Science
 Predictive Analytics Zero Downtime Deployment Deployment Agile Success is not in what you have, but who you are. Optimization Containerization Multi-threading Great things never come from comfort zones. Success is how high you bounce when you hit bottom. Latency Optimization
+Virtual Machines Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. Work hard in silence, let your success be your noise. Latency Optimization
