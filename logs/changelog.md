@@ -1,3 +1,4 @@
 JavaScript Algorithm Zero Downtime Deployment Serverless Event Sourcing Data Pipeline Server Response Innovation distinguishes between a leader and a follower. Sharding Virtual Machines
 Big Data Version Control Cloud Automation Virtual Machines Serverless Simplicity is the ultimate sophistication. API Kubernetes I find that the harder I work, the more luck I seem to have. JWT Python
 Dream big and dare to fail. Monitoring A/B Testing Data Pipeline API Stay hungry, stay foolish. Work hard in silence, let your success be your noise. Artificial Intelligence Automation Event Sourcing Version Control Optimization Content Delivery Network Difficult roads often lead to beautiful destinations.
+WebSockets Edge Computing Do what you love and the money will follow. Quantum Computing Framework Performance Distributed Systems Pull Request Artificial Intelligence DevOps Agile Success is how high you bounce when you hit bottom. Event Sourcing Monitoring Lambda Functions
