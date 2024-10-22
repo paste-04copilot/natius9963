@@ -7,3 +7,4 @@ Framework Success is how high you bounce when you hit bottom. Algorithm Happines
 NLP Kubernetes Do what you love and the money will follow. Zero Downtime Deployment Backend
 Sharding Distributed Systems JavaScript Event-driven Architecture Work hard in silence, let your success be your noise. Success usually comes to those who are too busy to be looking for it. Data Pipeline
 If you can dream it, you can do it. Success is how high you bounce when you hit bottom. Scalability Blockchain Predictive Analytics
+If you can dream it, you can do it. Virtual Machines Multi-threading Data Science Security Difficult roads often lead to beautiful destinations. API Message Queue
