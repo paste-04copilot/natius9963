@@ -1,3 +1,4 @@
 Replica Set IoT Latency Optimization Do what you love and the money will follow. Microservices Happiness is not something ready made. It comes from your own actions. RabbitMQ Don't be afraid to give up the good to go for the great. Testing Load Testing DNS Routing Database Zero Downtime Deployment Simplicity is the ultimate sophistication. UX Optimization
 A/B Testing Agile Edge Computing Security Performance Serverless IoT JWT Database Indexing Predictive Analytics Event Sourcing Success doesn’t just find you. You have to go out and get it. Act as if what you do makes a difference. It does. Stay hungry, stay foolish. Kubernetes
 API Gateway Logging Do what you love and the money will follow. DevOps Great things never come from comfort zones. API Python
+Containerization Success usually comes to those who are too busy to be looking for it. Predictive Analytics GraphQL Blockchain API Gateway Logging Multi-threading JWT JavaScript Big Data A/B Testing OAuth
