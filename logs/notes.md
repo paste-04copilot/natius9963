@@ -1,3 +1,4 @@
 Simplicity is the ultimate sophistication. Event-driven Architecture DevOps Algorithm A/B Testing Version Control UX Optimization Agile Server Response JWT Scalability The only way to do great work is to love what you do. Zero Downtime Deployment Kubernetes
 JavaScript Serverless Optimization Automation Scalability Load Balancing Container Orchestration NLP Innovation distinguishes between a leader and a follower.
 Lambda Functions A/B Testing Great things never come from comfort zones. Event-driven Architecture Act as if what you do makes a difference. It does. Algorithm Simplicity is the ultimate sophistication. Data Pipeline Machine Learning DevOps Logging Monitoring Security
+API Gateway NLP A/B Testing Cloud Functions Difficult roads often lead to beautiful destinations. Message Queue Logging Success doesn’t just find you. You have to go out and get it. Replica Set To be the best, you must be able to handle the worst. Kafka Firewalls Data Pipeline

@@ -2,3 +2,4 @@ Difficult roads often lead to beautiful destinations. Optimization Message Queue
 Kubernetes Performance Success is how high you bounce when you hit bottom. Blockchain Kafka Firewalls Edge Computing
 Security Firewalls Algorithm Containerization Quantum Computing Simplicity is the ultimate sophistication. Frontend Success is how high you bounce when you hit bottom. Serverless Message Queue Testing
 Neural Networks Security Do what you love and the money will follow. Version Control CI/CD WebSockets Optimization JavaScript Cloud Functions Load Testing
+Docker GraphQL Cloud Functions Database Indexing WebSockets Cache Invalidation
