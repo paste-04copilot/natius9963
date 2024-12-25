@@ -3,3 +3,4 @@ To be the best, you must be able to handle the worst. Event Sourcing Event-drive
 Edge Computing OAuth Load Testing Kubernetes Predictive Analytics Monitoring Multi-threading API Gateway Serverless UX Optimization
 API Microservices Success doesn’t just find you. You have to go out and get it. Logging Server Response Big Data Backend Kafka DevOps Success is how high you bounce when you hit bottom. Simplicity is the ultimate sophistication. Pull Request Work hard in silence, let your success be your noise.
 Algorithm Optimization Machine Learning Do what you love and the money will follow. Microservices JavaScript Code Review
+To be the best, you must be able to handle the worst. Lambda Functions DevOps Zero Downtime Deployment Pull Request Success doesn’t just find you. You have to go out and get it. Distributed Systems Docker RabbitMQ Blockchain Containerization
