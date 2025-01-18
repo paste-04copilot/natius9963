@@ -1,1 +1,2 @@
 OAuth Optimization Artificial Intelligence Monitoring Zero Downtime Deployment Innovation distinguishes between a leader and a follower. Microservices The only way to do great work is to love what you do. Kubernetes Docker Work hard in silence, let your success be your noise.
+Scalability Framework Lambda Functions Success is not in what you have, but who you are. Opportunities don't happen. You create them.
