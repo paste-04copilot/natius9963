@@ -1,1 +1,2 @@
 Code Review Docker CI/CD Kubernetes Lambda Functions Don't be afraid to give up the good to go for the great. Difficult roads often lead to beautiful destinations. Latency Optimization The only way to do great work is to love what you do. Sharding
+To be the best, you must be able to handle the worst. Event Sourcing Event-driven Architecture A/B Testing Data Pipeline Deployment Kubernetes Success doesn’t just find you. You have to go out and get it. Latency Optimization Frontend
