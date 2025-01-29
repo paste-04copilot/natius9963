@@ -1,1 +1,2 @@
 Simplicity is the ultimate sophistication. Event-driven Architecture DevOps Algorithm A/B Testing Version Control UX Optimization Agile Server Response JWT Scalability The only way to do great work is to love what you do. Zero Downtime Deployment Kubernetes
+JavaScript Serverless Optimization Automation Scalability Load Balancing Container Orchestration NLP Innovation distinguishes between a leader and a follower.
